@@ -18,5 +18,5 @@ setup(
     author='Revaldo Anjennu Rillif Anderson',
     author_email='revaldoanjennurillifanderson@gmail.com',
     description='A utility library for Sagemaker',
-    url='https://github.com/Linaqruf/colablib',
+    url='https://github.com/Hplayfree25/sagemodx',
 )
